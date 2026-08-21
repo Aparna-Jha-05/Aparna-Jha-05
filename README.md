@@ -2,7 +2,7 @@
 
 <p align="center">
   Undergrad building across data science, applied ML, and the life sciences.<br>
-  BS Data Science & Applications @ IIT Madras + BSc Zoology, Chemistry, Psychology @ MJRP University.
+  BS Data Science & Applications @ IIT Madras + BSc Zoology, Chemistry, Psychology.
 </p>
 
 <p align="center">
