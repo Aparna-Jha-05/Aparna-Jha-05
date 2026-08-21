@@ -2,7 +2,7 @@
 
 <p align="center">
   Data Science, Computational neuroscience and health AI in training.<br>
-  Dual degree: BS Data Science & Applications @ IIT Madras + BSc Zoology, Chemistry, Psychology
+  Dual degree: BS Data Science & Applications @ IIT Madras + BSc Zoology, Chemistry, Psychology @ MJRP University.
 </p>
 
 <p align="center">
@@ -32,6 +32,7 @@ The long game is computational neuroscience: modelling how neural systems actual
 | [synapse-1-digital-twin](https://github.com/Aparna-Jha-05/synapse-1-digital-twin) | Lunar habitat digital twin built on a neuron metaphor (Soma, Axon, Dendrite zones) with a circadian oscillator model, affect regressor, and an ethical ledger. **1st place, SpAr Conclave 2026, IIT Roorkee.** |
 | HIMANK | PolSAR lunar ice detection pipeline on Chandrayaan-2 data using LightGBM and YOLOv8. ISRO Bharatiya Antariksh Hackathon 2026, team lead. |
 | [aqi-decision-assistant](https://github.com/Aparna-Jha-05/aqi-decision-assistant) | Deployed Streamlit tool: OpenAQ data, Random Forest forecasting, and an LLM advisory layer that turns air quality numbers into an actual decision. |
+| [PO-LICE](https://github.com/Aparna-Jha-05/kaya-ai) | Procurement review engine: turns engineering bid PDFs into evidence-backed review dockets. Models extract and cite, deterministic rules decide PASS/FAIL, a human reviewer signs off. No LLM ever sets a compliance verdict. [Live demo](https://po-lice.vercel.app). Kaya AI IIT India Hackathon 2026, team lead. |
 | OCTOPUS | Multimodal cognitive trajectory modelling framework for healthy brain aging. IISc CBR / Microsoft Research AI Challenge 2026. |
 | Parkinson's progression | PPMI cohort, LightGBM with SHAP attribution over longitudinal motor and non-motor scores. In progress. |
 | Observable incident agent | FastAPI agent instrumented end to end with OTLP tracing, so you can see why it did what it did. |
