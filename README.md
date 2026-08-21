@@ -1,8 +1,8 @@
 <h1 align="center">Aparna Jha</h1>
 
 <p align="center">
-  Computational neuroscience and health AI in training.<br>
-  Dual degree: BS Data Science & Applications @ IIT Madras + BSc Zoology, Chemistry, Psychology @ MJRP University.
+  Data Science, Computational neuroscience and health AI in training.<br>
+  Dual degree: BS Data Science & Applications @ IIT Madras + BSc Zoology, Chemistry, Psychology
 </p>
 
 <p align="center">
