@@ -1,8 +1,8 @@
 <h1 align="center">Aparna Jha</h1>
 
 <p align="center">
-  Data Science, Computational neuroscience and health AI in training.<br>
-  Dual degree: BS Data Science & Applications @ IIT Madras + BSc Zoology, Chemistry, Psychology @ MJRP University.
+  Undergrad building across data science, applied ML, and the life sciences.<br>
+  BS Data Science & Applications @ IIT Madras + BSc Zoology, Chemistry, Psychology @ MJRP University.
 </p>
 
 <p align="center">
@@ -14,30 +14,22 @@
 
 ### About
 
-I sit at the intersection of brains and machine learning, which is the whole reason I picked a life sciences degree and a data science degree at the same time. Zoology and psychology give me the substrate, data science gives me the tooling, and most of what I build is an attempt to make those two talk to each other.
+I'm two years into a dual degree and mostly figuring things out by building. Some of what's here is coursework, some is hackathon work, some is half-finished experiments I got curious about at 2am. The domains jump around: procurement, air quality, satellite imagery, habitat systems, health data. That's deliberate for now. I'd rather find out what I'm good at by trying things than pick a lane before I've earned an opinion.
 
-The long game is computational neuroscience: modelling how neural systems actually behave and using that to build health AI that clinicians and patients can trust. Right now that means shipping a lot of projects, breaking a lot of them, and learning in public.
-
-### What I care about
-
-- **Neuro-ML.** Basal ganglia and reinforcement learning frameworks, neurodegenerative disease progression, DBS, cognitive trajectory modelling.
-- **Health AI that is honest.** Interpretability (SHAP, feature attribution), calibration, and models that say "I don't know" instead of guessing confidently.
-- **Trustworthy NLP.** Currently writing a solo paper on commitment-consistent NLP assistants for civic and legal documents.
-- **AI safety.** Chain-of-thought faithfulness, monitoring, and observability for agentic systems.
+What stays constant across the projects is a preference for systems that can explain themselves. If a model produces a number, I want to know which piece of evidence it came from and what happens when it's wrong.
 
 ### Selected work
 
 | Project | What it is |
 |---|---|
-| [synapse-1-digital-twin](https://github.com/Aparna-Jha-05/synapse-1-digital-twin) | Lunar habitat digital twin built on a neuron metaphor (Soma, Axon, Dendrite zones) with a circadian oscillator model, affect regressor, and an ethical ledger. **1st place, SpAr Conclave 2026, IIT Roorkee.** |
-| HIMANK | PolSAR lunar ice detection pipeline on Chandrayaan-2 data using LightGBM and YOLOv8. ISRO Bharatiya Antariksh Hackathon 2026, team lead. |
-| [aqi-decision-assistant](https://github.com/Aparna-Jha-05/aqi-decision-assistant) | Deployed Streamlit tool: OpenAQ data, Random Forest forecasting, and an LLM advisory layer that turns air quality numbers into an actual decision. |
 | [PO-LICE](https://github.com/Aparna-Jha-05/kaya-ai) | Procurement review engine: turns engineering bid PDFs into evidence-backed review dockets. Models extract and cite, deterministic rules decide PASS/FAIL, a human reviewer signs off. No LLM ever sets a compliance verdict. [Live demo](https://po-lice.vercel.app). Kaya AI IIT India Hackathon 2026, team lead. |
-| OCTOPUS | Multimodal cognitive trajectory modelling framework for healthy brain aging. IISc CBR / Microsoft Research AI Challenge 2026. |
-| Parkinson's progression | PPMI cohort, LightGBM with SHAP attribution over longitudinal motor and non-motor scores. In progress. |
-| Observable incident agent | FastAPI agent instrumented end to end with OTLP tracing, so you can see why it did what it did. |
+| [synapse-1-digital-twin](https://github.com/Aparna-Jha-05/synapse-1-digital-twin) | Lunar habitat digital twin organised around a neuron metaphor, with a circadian oscillator model, an affect regressor, and an ethical ledger. **1st place, SpAr Conclave 2026, IIT Roorkee.** |
+| [aqi-decision-assistant](https://github.com/Aparna-Jha-05/aqi-decision-assistant) | Deployed Streamlit tool: OpenAQ data, Random Forest forecasting, and an advisory layer that turns air quality numbers into an actual decision about your day. |
+| HIMANK | PolSAR lunar ice detection pipeline on Chandrayaan-2 data using LightGBM and YOLOv8. ISRO Bharatiya Antariksh Hackathon 2026, team lead. |
+| Observable incident agent | FastAPI agent instrumented end to end with OTLP tracing, so you can actually see why it did what it did. |
+| Parkinson's progression | PPMI cohort, LightGBM with SHAP attribution over longitudinal clinical scores. In progress. |
 
-More in [repositories](https://github.com/Aparna-Jha-05?tab=repositories), including coursework, hackathon builds, and experiments.
+More in [repositories](https://github.com/Aparna-Jha-05?tab=repositories), including coursework and things that didn't work out.
 
 ### Toolkit
 
@@ -49,16 +41,17 @@ More in [repositories](https://github.com/Aparna-Jha-05?tab=repositories), inclu
 
 **Frontend** Next.js, React, Three.js
 
-**Domain** neuroscience, psychology, zoology, chemistry
+**Also** neuroscience, psychology, zoology, chemistry, from the other half of the degree
 
 ### Currently
 
-- Building toward research in computational neuroscience, specifically the modelling of basal ganglia circuits and neurodegenerative progression
-- Writing an applied NLP paper on trustworthy, commitment-consistent assistants
+- Writing a solo paper on trustworthy, commitment-consistent NLP assistants for civic and legal documents
+- Poking at interpretability and model monitoring, which is where most of my reading goes right now
+- Slowly working toward computational neuroscience, since the biology degree has to earn its keep eventually
 - Learning French and German, playing tennis when the Jaipur heat allows it
 
 ### How I work
 
-I design the system, own the architecture and the research framing, and use agentic coding tools heavily for implementation. I'd rather be upfront about that than pretend otherwise. What's mine is the concept, the modelling decisions, the evaluation, and the judgment about whether the thing is actually correct.
+I design the system, own the architecture and the framing, and use agentic coding tools heavily for implementation. I'd rather be upfront about that than pretend otherwise. What's mine is the concept, the modelling decisions, the evaluation, and the judgment about whether the thing is actually correct.
 
-<sub>Based in Jaipur, Rajasthan. Open to research collaborations in neuro-ML and health AI.</sub>
+<sub>Based in Jaipur, Rajasthan. Happy to hear from people working on anything adjacent.</sub>
