@@ -14,7 +14,7 @@
 
 ### About
 
-I'm two years into a dual degree and mostly figuring things out by building. Some of what's here is coursework, some is hackathon work, some is half-finished experiments I got curious about at 2am. The domains jump around: procurement, civic safety, air quality, satellite imagery, space bioscience, technical hiring. That's deliberate for now. I'd rather find out what I'm good at by trying things than pick a lane before I've earned an opinion.
+I'm three years into a dual degree and mostly figuring things out by building. Some of what's here is coursework, some is hackathon work, some is half-finished experiments I got curious about at 2am. The domains jump around: machine learning, procurement, civic safety, air quality, satellite imagery, space bioscience, technical hiring. That's deliberate for now. I'd rather find out what I'm good at by trying things than pick a lane before I've earned an opinion.
 
 What stays constant across the projects is a preference for systems that can explain themselves. If a model produces a number, I want to know which piece of evidence it came from and what happens when it's wrong.
 
@@ -46,14 +46,13 @@ More in [repositories](https://github.com/Aparna-Jha-05?tab=repositories), inclu
 **Also** neuroscience, psychology, zoology, chemistry, from the other half of the degree
 
 ### Currently
-
+- Leading a Computational neuroscience research community.
 - Writing a solo paper on trustworthy, commitment-consistent NLP assistants for civic and legal documents
 - Working through the ML and data science core at IITM, and building something out of most of it
-- Slowly working toward computational neuroscience, since the biology degree has to earn its keep eventually
-- Learning French and German, playing tennis when the Jaipur heat allows it
+- Learning French and German, playing tennis and basketball.
 
 ### How I work
 
 I design the system, own the architecture and the framing, and use agentic coding tools heavily for implementation. I'd rather be upfront about that than pretend otherwise. What's mine is the concept, the modelling decisions, the evaluation, and the judgment about whether the thing is actually correct.
 
-<sub>Based in Jaipur, Rajasthan. Happy to hear from people working on anything adjacent.</sub>
+<sub>Happy to hear from people working on anything adjacent.</sub>
