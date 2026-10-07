@@ -14,10 +14,9 @@
 
 ### About
 
-I'm three years into a dual degree and mostly figuring things out by building. Some of what's here is coursework, some is hackathon work, some is half-finished experiments I got curious about at 2am. The domains jump around: machine learning, procurement, civic safety, air quality, satellite imagery, space bioscience, technical hiring. That's deliberate for now. I'd rather find out what I'm good at by trying things than pick a lane before I've earned an opinion.
+I'm three years into a dual degree, bridging data science and the life sciences by building. Some of what's here is coursework or hackathon prototypes, and some are late-night experiments. While my projects have spanned civic safety, satellite imagery, and space bioscience, my work is increasingly converging on computational neuroscience and modeling complex biological systems.
 
-What stays constant across the projects is a preference for systems that can explain themselves. If a model produces a number, I want to know which piece of evidence it came from and what happens when it's wrong.
-
+What stays constant across all my projects is a preference for systems that can explain themselves. Whether it's forecasting a lunar habitat's environment or predicting Parkinson's progression, if a model produces a number, I want to know which piece of evidence it came from and what happens when it's wrong.
 ### Selected work
 
 | Project | What it is | Run it |
