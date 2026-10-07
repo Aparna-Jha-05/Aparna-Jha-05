@@ -1,7 +1,7 @@
 <h1 align="center">Aparna Jha</h1>
 
 <p align="center">
-  Undergrad building across data science, applied ML, and the life sciences.<br>
+  Undergrad building at the intersection of data science, applied ML, and computational neuroscience.<br>
   BS Data Science & Applications @ IIT Madras + BSc Zoology, Chemistry, Psychology.
 </p>
 
