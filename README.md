@@ -52,8 +52,4 @@ More in [repositories](https://github.com/Aparna-Jha-05?tab=repositories), inclu
 - Working through the ML and data science core at IITM, and building something out of most of it
 - Learning French and German, playing tennis and basketball.
 
-### How I work
-
-I design the system, own the architecture and the framing, and use agentic coding tools heavily for implementation. I'd rather be upfront about that than pretend otherwise. What's mine is the concept, the modelling decisions, the evaluation, and the judgment about whether the thing is actually correct.
-
 <sub>Happy to hear from people working on anything adjacent.</sub>
